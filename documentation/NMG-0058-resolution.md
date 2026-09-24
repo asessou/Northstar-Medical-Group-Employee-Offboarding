@@ -37,6 +37,8 @@ The following items were verified:
 * Original business documents remain intact.
 * No other `HR-Users` members were affected.
 
+<img width="921" height="892" alt="Sandra_Membership_After_Access_is_Removed" src="https://github.com/user-attachments/assets/ffe29655-f222-4ed9-a43c-74fe88ad9b4f" />
+
 ---
 
 ## Outcome
