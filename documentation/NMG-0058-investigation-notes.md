@@ -52,6 +52,9 @@ Groups:
     HR-Users
     Domain Users
 ```
+<img width="945" height="777" alt="Sandra_Torres_OUs" src="https://github.com/user-attachments/assets/54ad14cf-6aac-4ae5-ad73-10b1df80e425" />
+<img width="902" height="849" alt="Sandra_Torres_group_Membership" src="https://github.com/user-attachments/assets/1ee4b3ca-a76f-4a97-8442-a14328dc2fbf" />
+<img width="948" height="770" alt="Sandra_Torres_Account_tab" src="https://github.com/user-attachments/assets/4adff2ae-4eda-4756-91e1-dbdb2484c4ea" />
 
 ## Next Action
 
