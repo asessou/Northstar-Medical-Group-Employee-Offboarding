@@ -29,6 +29,7 @@ The account was disabled from:
 ```text
 NMG.com → HR → Sandra Torres
 ```
+<img width="944" height="848" alt="Sandra_Torres_Account_is_Disable" src="https://github.com/user-attachments/assets/d198f006-40a0-44fe-a750-a0d7633c1ea0" />
 
 The account object was retained and was not deleted.
 
