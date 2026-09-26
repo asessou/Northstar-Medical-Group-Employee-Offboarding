@@ -1,4 +1,4 @@
-# Northstar Medical Group — Employee Offboarding & Access Management
+Employee Offboarding & Access Management
 
 ## Project Overview
 
